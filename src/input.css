@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    @apply bg-customGray;
+    font-family: Helvetica, Arial, sans-serif;
+}
